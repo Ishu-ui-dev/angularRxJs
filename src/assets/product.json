@@ -1,0 +1,108 @@
+[
+    {
+        "name" : "Google Pixel 2",
+        "price" : 61000,
+        "category" : "Electronics",
+        "tags" : ["Google-phone", "Apple"],
+        "imageUrl" : "https://rukminim1.flixcart.com/image/832/832/j8esr680/mobile/n/d/5/google-pixel-2-na-original-imaeyfsw6zzzaakt.jpeg?q=70"
+    },
+    {
+        "name" : "Apple iPhone 7 ",
+        "price" : 45999,
+        "category" : "Electronics",
+        "tags" : ["Apple","iPhone 7","HD display"],
+        "imageUrl" : "https://rukminim1.flixcart.com/image/832/832/j8esr680/mobile/n/d/5/google-pixel-2-na-original-imaeyfsw6zzzaakt.jpeg?q=70"
+    },
+     {
+        "name" : "Samsung Galaxy J7 Prime ",
+        "price" : 61000,
+        "category" : "Electronics",
+        "tags" : ["Samsung-phone", "13MP Rear Camera"],
+        "imageUrl" : "https://rukminim1.flixcart.com/image/832/832/j8esr680/mobile/n/d/5/google-pixel-2-na-original-imaeyfsw6zzzaakt.jpeg?q=70"
+    },
+    {
+        "name" : "Casual Half Sleeve Checkered Women's Multicolor Top ",
+        "price" : 1400,
+        "category" : "Fashion",
+        "tags" : ["United Colors of Benetton","Women-top"],
+        "imageUrl" : "https://rukminim1.flixcart.com/image/832/832/j8osu4w0-1/top/k/a/z/s-17a5tw1e9560imulti-united-colors-of-benetton-original-imaeynd65sktxnga.jpeg?q=70"
+    },
+    {
+        "name" : "Full Sleeve Solid Women's Red Top ",
+        "price" : 1519,
+        "category" : "Fashion",
+        "tags" : ["Polyester","Women-top", "full-sleeve"],
+        "imageUrl" : "https://rukminim1.flixcart.com/image/832/832/j7f2qvk0/top/z/j/k/s-17a5gr1e9710ired-united-colors-of-benetton-original-imaexzygjcd2b8pf.jpeg?q=70"
+    },
+    {
+        "name" : "Skinny Women's Blue Jeans ",
+        "price" : 1704,
+        "category" : "Fashion",
+        "tags" : ["Skinny","Western Wear", "Women"],
+        "imageUrl" : "https://rukminim1.flixcart.com/image/832/832/j6fcqkw0/jean/v/r/t/28-21306-0185blue-levi-s-original-imaewwb53w2fyxjn.jpeg?q=70"
+    },
+    {
+        "name" : "Fully Automatic Top Load Washing Machine",
+        "price" : 12699,
+        "category" : "Appliances",
+        "tags" : ["Higher the spin speed","lower the drying time"],
+        "imageUrl" : "https://rukminim1.flixcart.com/image/832/832/washing-machine-new/g/b/g/haier-hwm-60-10-original-imaejgbbzyztzthg.jpeg?q=70"
+    },
+    {
+        "name" : "Sansui 1 Ton 5 Star Split AC - White ",
+        "price" : 19499,
+        "category" : "Appliances",
+        "tags" : ["5 Star","Aluminium"],
+        "imageUrl" : "https://rukminim1.flixcart.com/image/832/832/washing-machine-new/g/b/g/haier-hwm-60-10-original-imaejgbbzyztzthg.jpeg?q=70"
+    },
+    {
+        "name" : "Samsung 80cm (32 inch) Full HD LED Smart TV ",
+        "price" : 35999,
+        "category" : "Appliances",
+        "tags" : ["5 Star","Aluminium"],
+        "imageUrl" : "https://rukminim1.flixcart.com/image/832/832/television/2/y/r/samsung-32k5570-original-imaehfq3quyc5nzx.jpeg?q=70"
+    },
+    {
+        "name" : "The Immortals of Meluha",
+        "price" : 158,
+        "category" : "Books",
+        "tags" : ["Higher the spin speed","lower the drying time"],
+        "imageUrl" : "https://rukminim1.flixcart.com/image/832/832/washing-machine-new/g/b/g/haier-hwm-60-10-original-imaejgbbzyztzthg.jpeg?q=70"
+    },
+    {
+        "name" : "One Indian Girl",
+        "price" : 172,
+        "category" : "Books",
+        "tags" : ["Westland","Indian Writing"],
+        "imageUrl" : "https://rukminim1.flixcart.com/image/832/832/book/7/4/2/the-immortals-of-meluha-original-imaepgnrxhp6w9hj.jpeg?q=70"
+    },
+    {
+        "name" : "Thea Stilton and the Tropical Treasure ",
+        "price" : 263,
+        "category" : "Books",
+        "tags" : ["English","Thea Stilton"],
+        "imageUrl" : "https://rukminim1.flixcart.com/image/832/832/book/0/8/3/22-thea-stilton-and-the-tropical-treasure-original-imaedhrbcwzzqv6b.jpeg?q=70"
+    },
+    {
+        "name" : "Home Sparkle Analog Wall Clock",
+        "price" : 1528,
+        "category" : "Home & Furniture",
+        "tags" : ["Wall Mounted","For Adults"],
+        "imageUrl" : "https://rukminim1.flixcart.com/image/832/832/washing-machine-new/g/b/g/haier-hwm-60-10-original-imaejgbbzyztzthg.jpeg?q=70"
+    },
+    {
+        "name" : "RoyalOak Bell Engineered Wood Office Table ",
+        "price" : 4049,
+        "category" : "Home & Furniture",
+        "tags" : ["Particle Board","Straight"],
+        "imageUrl" : "https://rukminim1.flixcart.com/image/832/832/j9d3bm80/office-study-table/t/9/b/particle-board-of201ch-royaloak-chocolate-original-imaez2ydfwaczjhz.jpeg?q=70"
+    },
+    {
+        "name" : "Artesia Wooden Wall Shelf",
+        "price" : 2548,
+        "category" : "Home & Furniture",
+        "tags" : ["Wooden","Living Room & Bedroom"],
+        "imageUrl" : "https://rukminim1.flixcart.com/image/832/832/rack-shelf/s/4/w/sscdr-175-decorhand-original-imaeft3jm7tfmjmp.jpeg?q=70"
+    }
+
+]

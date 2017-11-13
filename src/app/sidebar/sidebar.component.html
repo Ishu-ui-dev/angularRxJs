@@ -1,0 +1,20 @@
+<mat-toolbar>{{title}}</mat-toolbar>
+        <mat-selection-list #category>
+          <mat-list-option *ngFor="let category of categoryList" value = "{{category}}" selected>
+            {{category}}
+          </mat-list-option>
+        </mat-selection-list>         
+        <mat-toolbar>Price Range(100 - {{rangeData.value}})</mat-toolbar>
+        <div class = "range-container">
+            <span class ="min-range">100</span>
+            <mat-slider
+                class="example-margin"
+                [max]="rangeData.max"
+                [min]="rangeData.min"
+                thumb-label="true"
+                [value]="rangeData.max"
+                [(ngModel)] = "rangeData.value">                
+            </mat-slider>                        
+            <span class = "max-range">100000</span>
+        </div>
+        <button class = "apply" mat-raised-button color="primary" (click)="sendMessage()">Apply Filter</button>

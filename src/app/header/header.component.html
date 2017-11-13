@@ -1,0 +1,9 @@
+<mat-toolbar color="primary">
+ <mat-toolbar-row>
+    <span>{{title}}</span>
+    <span class="example-spacer"></span>
+   <div class="button-row">
+       <a mat-button routerLink="#" *ngFor = "let link of categoryList">{{link}}</a>        
+    </div>
+  </mat-toolbar-row>
+</mat-toolbar>
